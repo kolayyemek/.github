@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Kolay Yemek Tarifleri</h1>
-  <p><strong>Türkiye'nin açık kaynak yemek tarifi veri ağı.</strong></p>
+  <p><strong>Türkiye'nin açık kaynak yemek tarifi veritabanı.</strong></p>
   
   <a href="https://yemekyarismasi.com"><img src="https://img.shields.io/badge/ANA_PLATFORM-YemekYarismasi.com-orange?style=for-the-badge&logo=google-chrome" /></a><br><br>
   <a href="https://github.com/kolayyemek/tarifleri"><img src="https://img.shields.io/badge/_API_DURUMU_-__Aktif_ve_Guncel__-brightgreen?style=for-the-badge&logo=json" /></a><br><br>
