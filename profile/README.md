@@ -15,14 +15,18 @@
 ## 🌐 Ekosistemimiz
 Gastronomi ve teknoloji deneyimini tek bir çatı altında sunuyoruz. İhtiyacınıza en uygun platformumuzu ziyaret edebilirsiniz:
 
-- 🤖 **[Yemek AI](https://yemekyarismasi.com/yemek-ai)**: Yapay zeka destekli akıllı şefiniz ile evdeki malzemelerinize göre saniyeler içinde yepyeni tarifler üretin.
-- 🏆 **[Yemek Yarışması](https://yemekyarismasi.com)**: Türkiye'nin yapay zeka destekli gastronomi sosyal ağı: Yemek yarışması etkinliklerine katılın, yeni yemek tarifleri keşfedin ve ödüller kazanın!
-- 🍲 **[Kolay Yemek Tarifleri](https://yemekyarismasi.com/yemek-tarifleri)**: Tamamı denenmiş, pratik, resimli ve adım adım anlatımlı nefis yemek tarifleri arşivi.
+| 🚀 Platform | 📝 Açıklama | 🔗 Bağlantı |
+|---|---|---|
+| 🏆 **Yemek Yarışması** | Türkiye'nin yapay zeka destekli gastronomi sosyal ağı: Yemek yarışması etkinliklerine katılın, yeni yemek tarifleri keşfedin ve ödüller kazanın! | [İncele](https://yemekyarismasi.com) |
+| 🤖 **Yemek AI** | Yapay zeka destekli akıllı şefiniz ile evdeki malzemelerinize göre saniyeler içinde yepyeni tarifler üretin. | [Üret](https://yemekyarismasi.com/yemek-ai) |
+| 🍲 **Kolay Yemek Tarifleri** | Tamamı denenmiş, pratik, resimli ve adım adım anlatımlı nefis yemek tarifleri arşivi. | [Göz At](https://yemekyarismasi.com/yemek-tarifleri) |
 
 ## 📦 Açık Veri (API) Projelerimiz
 Uygulamalarınızda (Mobil uygulama, web sitesi, kalori takibi vb.) kullanabilmeniz için özenle hazırladığımız veritabanlarımızı aşağıda bulabilirsiniz:
 
-- 🍽️ **[Kolay Yemek Tarifleri API (JSON)](https://github.com/kolayyemek/tarifleri)**: 20'den fazla kategoride, **besin değerleri (kalori, protein vb.) hesaplanmış**, yüksek çözünürlüklü görsellere sahip yüzlerce gerçek tarif verisi.
+| 📦 Açık Veri Deposu | 📊 İçerik Özeti | 🔗 Bağlantı |
+|---|---|---|
+| 🍽️ **Tarifler API (JSON)** | 20'den fazla kategoride, besin değerleri hesaplanmış, yüksek çözünürlüklü yüzlerce gerçek tarif verisi. | [Projeye Git](https://kolayyemek.github.io/tarifleri) |
 
 ## 🤝 Kullanım Kuralları
 Verilerimizi kullanmak tamamen **ücretsizdir**. Tek kuralımız, verileri kullandığınız uygulama veya web sitelerinde tarifin detayları için kullanıcılarınızı referans (backlink) olarak [YemekYarismasi.com](https://yemekyarismasi.com)'a yönlendirmenizdir. 
