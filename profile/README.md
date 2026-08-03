@@ -21,7 +21,7 @@ Gastronomi ve teknoloji deneyimini tek bir çatı altında sunuyoruz. İhtiyacı
 
 - 🤖 **[Yemek AI](https://yemekyarismasi.com/yemek-ai)**: Yapay zeka destekli akıllı şefiniz ile evdeki malzemelerinize göre saniyeler içinde yepyeni tarifler üretin.
 - 🏆 **[Yemek Yarışması](https://yemekyarismasi.com)**: Türkiye'nin yapay zeka destekli gastronomi sosyal ağı: Yemek yarışması etkinliklerine katılın, yeni yemek tarifleri keşfedin ve ödüller kazanın!
-- 🍲 Kolay **[Yemek Tarifleri](https://yemekyarismasi.com/yemek-tarifleri)**: Tamamı denenmiş, pratik, resimli ve adım adım anlatımlı nefis yemek tarifleri arşivi.
+- 🍲 **[Yemek Tarifleri](https://yemekyarismasi.com/yemek-tarifleri)**: Tamamı denenmiş, pratik, resimli ve adım adım anlatımlı nefis yemek tarifleri arşivi.
 
 ## 📦 Açık Veri (API) Projelerimiz
 Uygulamalarınızda (Mobil uygulama, web sitesi, kalori takibi vb.) kullanabilmeniz için özenle hazırladığımız veritabanlarımızı aşağıda bulabilirsiniz:
