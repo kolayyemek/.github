@@ -12,7 +12,7 @@
 ## 🚀 Biz Kimiz?
 **Kolay Yemek**: Yemek tarifi uygulamaları, kalori/diyet uygulaması yapanlar ve yemek yapay zekası meraklıları için geliştirici topluluğudur. 
 
-Türkiye'nin en yenilikçi gastronomi ekosistemi olan [YemekYarismasi.com](https://yemekyarismasi.com/)'un geliştirici mühendislik ekibi olarak amacımız; gastronomi tutkunlarının yemek yarışması etkinliklerine katılabildiği, binlerce denenmiş yemek tarifleri inceleyebildiği ve yapay zeka ile yepyeni lezzetler üretebildiği bu devasa platformun verilerini teknoloji dünyasına açmaktır.
+Türkiye'nin en yenilikçi gastronomi ekosistemi olan YemekYarismasi.com'un geliştirici mühendislik ekibi olarak amacımız; gastronomi tutkunlarının yemek yarışması etkinliklerine katılabildiği, binlerce denenmiş yemek tarifleri inceleyebildiği ve yapay zeka ile yepyeni lezzetler üretebildiği bu devasa platformun verilerini teknoloji dünyasına açmaktır.
 
 Özenle hazırladığımız nefis yemek tarifleri ve API'lerimiz (Open Data) sayesinde mutfak kültürünü kodlara döküyoruz.
 
@@ -29,13 +29,12 @@ Uygulamalarınızda (Mobil uygulama, web sitesi, kalori takibi vb.) kullanabilme
 - 🍽️ **[Kolay Yemek Tarifleri API (JSON)](https://github.com/kolayyemek/tarifleri)**: 20'den fazla kategoride, **besin değerleri (kalori, protein vb.) hesaplanmış**, yüksek çözünürlüklü görsellere sahip yüzlerce gerçek tarif verisi.
 
 ## 🤝 Kullanım Kuralları
-Verilerimizi kullanmak tamamen **ücretsizdir**. Tek kuralımız, verileri kullandığınız uygulama veya web sitelerinde tarifin detayları için kullanıcılarınızı referans (backlink) olarak [YemekYarismasi.com](https://yemekyarismasi.com)'a yönlendirmenizdir. 
+Verilerimizi kullanmak tamamen **ücretsizdir**. Tek kuralımız, verileri kullandığınız uygulama veya web sitelerinde tarifin detayları için kullanıcılarınızı referans (backlink) olarak YemekYarismasi.com'a yönlendirmenizdir. 
 
 Açık veri ekosisteminin ayakta kalması için desteğiniz çok değerlidir!
 
 <br />
 
 <div align="center">
-  <i>Kodla kalın, afiyetle kalın! 👨‍🍳👩‍💻</i><br>
-  <b>www.yemekyarismasi.com</b>
+  <i>Kodla kalın, afiyetle kalın! 👨‍🍳👩‍💻</i>
 </div>
