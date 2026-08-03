@@ -3,8 +3,8 @@
   <p><strong>Türkiye'nin açık kaynak yemek tarifi veritabanı.</strong></p>
   
   <a href="https://yemekyarismasi.com"><img src="https://img.shields.io/badge/ANA_PLATFORM-YemekYarismasi.com-orange?style=for-the-badge&logo=google-chrome" /></a><br><br>
-  <a href="https://github.com/kolayyemek/tarifleri"><img src="https://img.shields.io/badge/_API_DURUMU_-__Aktif_ve_Guncel__-brightgreen?style=for-the-badge&logo=json" /></a><br><br>
-  <a href="https://github.com/kolayyemek/tarifleri"><img src="https://img.shields.io/badge/_LISANS_TURU_-Ucretsiz_Acik_Veri-blue?style=for-the-badge&logo=open-source-initiative" /></a>
+  <a href="https://kolayyemek.github.io/tarifleri"><img src="https://img.shields.io/badge/_API_DURUMU_-__Aktif_ve_Guncel__-brightgreen?style=for-the-badge&logo=json" /></a><br><br>
+  <a href="https://kolayyemek.github.io/tarifleri"><img src="https://img.shields.io/badge/_LISANS_TURU_-Ucretsiz_Acik_Veri-blue?style=for-the-badge&logo=open-source-initiative" /></a>
 </div>
 
 <br />
@@ -26,7 +26,7 @@ Gastronomi ve teknoloji deneyimini tek bir çatı altında sunuyoruz. İhtiyacı
 ## 📦 Açık Veri (API) Projelerimiz
 Uygulamalarınızda (Mobil uygulama, web sitesi, kalori takibi vb.) kullanabilmeniz için özenle hazırladığımız veritabanlarımızı aşağıda bulabilirsiniz:
 
-- 🍽️ **[Kolay Yemek Tarifleri API (JSON)](https://github.com/kolayyemek/tarifleri)**: 20'den fazla kategoride, **besin değerleri (kalori, protein vb.) hesaplanmış**, yüksek çözünürlüklü görsellere sahip yüzlerce gerçek tarif verisi.
+- 🍽️ **[Kolay Yemek Tarifleri API (JSON)](https://kolayyemek.github.io/tarifleri)**: 20'den fazla kategoride, **besin değerleri (kalori, protein vb.) hesaplanmış**, yüksek çözünürlüklü görsellere sahip yüzlerce gerçek tarif verisi.
 
 ## 🤝 Kullanım Kuralları
 Verilerimizi kullanmak tamamen **ücretsizdir**. Tek kuralımız, verileri kullandığınız uygulama veya web sitelerinde tarifin detayları için kullanıcılarınızı referans (backlink) olarak YemekYarismasi.com'a yönlendirmenizdir. 
