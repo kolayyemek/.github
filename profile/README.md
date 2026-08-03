@@ -1,10 +1,12 @@
 <div align="center">
-  <h1>🍲 Kolay Yemek Tarifleri - Açık Veri Merkezi</h1>
+  <h3>Kolay Yemek Tarifleri</h3>
+  <h1>🍲</h1>
+  <h4>Açık Veri Merkezi</h4>
   <p><strong>YemekYarismasi.com tarafından geliştiriciler için sunulan Türkiye'nin açık kaynaklı yemek tarifleri ağı.</strong></p>
   
-  [![Website](https://img.shields.io/badge/Website-YemekYarismasi.com-orange?style=for-the-badge&logo=google-chrome)](https://yemekyarismasi.com)
-  [![API Status](https://img.shields.io/badge/API-Aktif-brightgreen?style=for-the-badge&logo=json)](https://github.com/kolayyemek/tarifleri)
-  [![Geliştirici Dostu](https://img.shields.io/badge/Open_Data-Ücretsiz-blue?style=for-the-badge)](https://github.com/kolayyemek/tarifleri)
+  [![Website](https://img.shields.io/badge/Website-YemekYarismasi.com-orange?style=flat-square&logo=google-chrome)](https://yemekyarismasi.com)
+  [![API Status](https://img.shields.io/badge/API-Aktif-brightgreen?style=flat-square&logo=json)](https://github.com/kolayyemek/tarifleri)
+  [![Geliştirici Dostu](https://img.shields.io/badge/Open_Data-Ücretsiz-blue?style=flat-square)](https://github.com/kolayyemek/tarifleri)
 </div>
 
 <br />
