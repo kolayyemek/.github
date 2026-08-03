@@ -35,6 +35,4 @@ Açık veri ekosisteminin ayakta kalması için desteğiniz çok değerlidir!
 
 <br />
 
-<div align="center">
-  <i>Kodla kalın, afiyetle kalın! 👨‍🍳👩‍💻</i>
-</div>
+👩‍💻 Kodla kalın, afiyetle kalın! 👨‍🍳
