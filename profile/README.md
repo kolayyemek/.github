@@ -21,12 +21,12 @@ Gastronomi ve teknoloji deneyimini tek bir çatı altında sunuyoruz. İhtiyacı
 
 - 🤖 **[Yemek AI](https://yemekyarismasi.com/yemek-ai)**: Yapay zeka destekli akıllı şefiniz ile evdeki malzemelerinize göre saniyeler içinde yepyeni tarifler üretin.
 - 🏆 **[Yemek Yarışması](https://yemekyarismasi.com)**: Türkiye'nin yapay zeka destekli gastronomi sosyal ağı: Yemek yarışması etkinliklerine katılın, yeni yemek tarifleri keşfedin ve ödüller kazanın!
-- 🍲 **[Kolay Yemek Tarifleri](https://yemekyarismasi.com/yemek-tarifleri)**: Tamamı denenmiş, pratik, resimli ve adım adım anlatımlı nefis yemek tarifleri arşivi.
+- 🍲 Kolay **[Yemek Tarifleri](https://yemekyarismasi.com/yemek-tarifleri)**: Tamamı denenmiş, pratik, resimli ve adım adım anlatımlı nefis yemek tarifleri arşivi.
 
 ## 📦 Açık Veri (API) Projelerimiz
 Uygulamalarınızda (Mobil uygulama, web sitesi, kalori takibi vb.) kullanabilmeniz için özenle hazırladığımız veritabanlarımızı aşağıda bulabilirsiniz:
 
-- 🍽️ **[Kolay Yemek Tarifleri API (JSON)](https://kolayyemek.github.io/tarifleri)**: 20'den fazla kategoride, **besin değerleri (kalori, protein vb.) hesaplanmış**, yüksek çözünürlüklü görsellere sahip yüzlerce gerçek tarif verisi.
+- 🍽️ **[Kolay Yemek Tarifleri](https://kolayyemek.github.io/tarifleri)** API (JSON): 20'den fazla kategoride, **besin değerleri (kalori, protein vb.) hesaplanmış**, yüksek çözünürlüklü görsellere sahip yüzlerce gerçek tarif verisi.
 
 ## 🤝 Kullanım Kuralları
 Verilerimizi kullanmak tamamen **ücretsizdir**. Tek kuralımız, verileri kullandığınız uygulama veya web sitelerinde tarifin detayları için kullanıcılarınızı referans (backlink) olarak YemekYarismasi.com'a yönlendirmenizdir. 
