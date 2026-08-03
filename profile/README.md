@@ -1,18 +1,18 @@
 <div align="center">
-  <h3>Kolay Yemek Tarifleri</h3>
-  <h1>🍲</h1>
-  <h4>Açık Veri Merkezi</h4>
+  <h1>Kolay Yemek Tarifleri 🍲</h1>
   <p><strong>YemekYarismasi.com tarafından geliştiriciler için sunulan Türkiye'nin açık kaynaklı yemek tarifleri ağı.</strong></p>
   
-  [![Website](https://img.shields.io/badge/Website-YemekYarismasi.com-orange?style=flat-square&logo=google-chrome)](https://yemekyarismasi.com)
-  [![API Status](https://img.shields.io/badge/API-Aktif-brightgreen?style=flat-square&logo=json)](https://github.com/kolayyemek/tarifleri)
-  [![Geliştirici Dostu](https://img.shields.io/badge/Open_Data-Ücretsiz-blue?style=flat-square)](https://github.com/kolayyemek/tarifleri)
+  <a href="https://yemekyarismasi.com"><img src="https://img.shields.io/badge/ANA_PLATFORM-YemekYarismasi.com-orange?style=for-the-badge&logo=google-chrome" /></a><br><br>
+  <a href="https://github.com/kolayyemek/tarifleri"><img src="https://img.shields.io/badge/API_DURUMU-Aktif_ve_Guncel-brightgreen?style=for-the-badge&logo=json" /></a><br><br>
+  <a href="https://github.com/kolayyemek/tarifleri"><img src="https://img.shields.io/badge/LISANS_TURU-Ucretsiz_Acik_Veri-blue?style=for-the-badge" /></a>
 </div>
 
 <br />
 
 ## 🚀 Biz Kimiz?
-**Kolay Yemek (YemekYarismasi.com)**, mutfak kültürünü teknolojiyle birleştirmeyi hedefleyen yenilikçi bir platformdur. Geliştiricilere, öğrencilere, diyet uygulaması yapanlara ve veri bilimi meraklılarına tamamen ücretsiz, zengin ve yapılandırılmış (JSON) açık veriler (Open Data) sağlıyoruz.
+**Kolay Yemek**, Türkiye'nin en yenilikçi gastronomi ekosistemi olan [YemekYarismasi.com](https://yemekyarismasi.com)'un geliştirici topluluğudur. Amacımız; gastronomi tutkunlarının **yemek yarışması etkinliklerine katılabildiği**, binlerce denenmiş **yemek tarifleri inceleyebildiği** ve yapay zeka ile yepyeni lezzetler üretebildiği bu devasa platformun verilerini teknoloji dünyasına açmaktır.
+
+Geliştiriciler, diyet/kalori uygulaması yapanlar ve yapay zeka meraklıları için özenle hazırladığımız **nefis yemek tarifleri** ve API'lerimiz (Open Data) sayesinde mutfak kültürünü kodlara döküyoruz.
 
 ## 🌐 Ekosistemimiz
 Gastronomi ve teknoloji deneyimini tek bir çatı altında sunuyoruz. İhtiyacınıza en uygun platformumuzu ziyaret edebilirsiniz:
